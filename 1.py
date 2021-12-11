@@ -12,7 +12,7 @@ import json,sys,time
 
 
 
-path=sys.path[0]+r'/secret.txt'
+path=sys.path[0]+r'/refresh_token.txt'
 num1 = 0
 
 def gettoken(refresh_token):
